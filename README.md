@@ -8,4 +8,7 @@ This exam will showcase our git talents
 
  # What to expect:
  This repositroy will show all the branches, merging, pull requests, and merge conflicts to simulate real-world collaborative development
+
+ # Merge Conflict
+ This mesage is written to make a conflict in merging, this will overwrite the changes done in main branch
   
